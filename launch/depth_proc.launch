@@ -25,4 +25,7 @@
     <remap from="depth_registered/image_rect" to="$(arg depReg_imgrect)"/>
     <remap from="depth_registered/points" to="$(arg out_cloud)"/>
   </node>
+
+  <node pkg="tf" type="static_transform_publisher" name="realsense_link_broadcaster" args="0 0 1 -1.57 0 -1.57 map color 10" />
+
 </launch>

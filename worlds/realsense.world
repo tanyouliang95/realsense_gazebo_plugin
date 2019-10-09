@@ -11,10 +11,12 @@
 
         <include>
             <uri>model://realsense_camera</uri>
+            <static>true</static>
+            <pose>0.0 0.0 1.0 0.0 0.0 0.0</pose>
         </include>
 
         <model name="dummy_model">
-            <pose>1.0 0.0 0.0 0.0 0.0 0.0</pose>
+            <pose>2.0 0.0 0.0 0.0 0.0 0.0</pose>
             <link name="link_1">
                 <pose>0.0 0.0 0.0 0.0 0.0 0.0</pose>
                 <inertial>
