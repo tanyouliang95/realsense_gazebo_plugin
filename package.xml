@@ -2,8 +2,9 @@
 <package format="2">
   <name>realsense_gazebo_plugin</name>
   <version>0.0.0</version>
-  <description>Intel RealSense R200 Gazebo plugin package</description>
+  <description>Intel RealSense R200 and D435 Gazebo plugin package</description>
   <maintainer email="missrisalaheddine@gmail.com">Salah-Eddine Missri</maintainer>
+  <maintainer email="tan_you_liang@hotmail.com">You Liang</maintainer>
 
   <license>BSD</license>
 

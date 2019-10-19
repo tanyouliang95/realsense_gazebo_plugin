@@ -23,7 +23,7 @@
       <visual name="visual">
         <geometry>
           <mesh>
-            <uri>model://realsense_camera/meshes/realsense.dae</uri>
+            <uri>model://realsense_camera/meshes/realsense_r200.dae</uri>
           </mesh>
         </geometry>
       </visual>
