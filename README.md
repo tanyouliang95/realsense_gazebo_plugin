@@ -65,7 +65,7 @@ The package has been tested on ROS melodic on Ubuntu 18.04 with Gazebo 9.
 - changes readme
 
 ## TODO
-
+- If facing issue with gtest dep, refer to [here](https://github.com/AppImage/AppImageKit/issues/571#issuecomment-349471627)
 - support realsense 435 series
 - real fix on 2 cam tf registration misallignment issue
 
